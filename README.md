@@ -145,3 +145,5 @@ faster-whisper
 pyannote.audio
 torch (pre-installed on Colab)
 ```
+
+Shared via SM
